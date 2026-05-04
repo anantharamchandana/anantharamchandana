@@ -3,8 +3,8 @@
 
 ### 🔬 Currently at Verizon
 
-- 🔭 Building and owns **4** production ML systems at Verizon Business — designed a SD-WAN Network Health Score (NHS), Moving Avergae Convergence Divergence (MACD), End User Experience Score(EUX) & Time Series Forecasting system(TSF) model processing millions of telemetry records/day across 11K+ (Versa, Viptela and more) devices, enabling real-time network risk detection. 
-- 🤖 Architected a **RAG-based semantic search system** (LangChain) and Led **5G price plan rationalization** across 87K+ Verizon price plans (FWA, Mobility, IoT).
+- 🔭 Building and owns **4** production ML systems at Verizon Business — designed a SD-WAN Network Health Score (NHS), Moving Avergae Convergence Divergence (MACD), End User Experience Score(EUX - Cisco Thousand Eyes) & Time Series Forecasting system(TSF) model processing millions of telemetry records/day across 11K+ (Versa, Viptela and more) devices, enabling real-time network risk detection. 
+- 🤖 Architected a **RAG-based semantic search system** (LangChain) for Meraki + Aruba and Led **5G price plan rationalization** across 87K+ Verizon price plans (FWA, Mobility, IoT).
 - 📶 Built **FWA-SLA KPI framework** for Verizon's 5G Fixed Wireless Access with data across **20K+ devices and 10K+ enterprise accounts** to calculate true availability and help define SLA thresholds for 5G contracts.
 - 📡 5G CDR vs 4G RTR telemetry analysis (ThingSpace @Verizon).
 - 🔭 Top *5* finalist in 2 PY-VEGAS internal enterprise hackathon.
