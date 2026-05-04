@@ -1,4 +1,4 @@
-## Hi there, I'm Chandana Anantharama 👋
+## Hi, I'm Chandana Anantharama 👋
 ### Data Scientist | Machine Learning Engineer | Forward Deployed System Engineer. 
 
 ### 🔬 Currently at Verizon
@@ -7,7 +7,7 @@
 - 🤖 Architected a **RAG-based semantic search system** (LangChain) for Meraki + Aruba and Led **5G price plan rationalization** across 87K+ Verizon price plans (FWA, Mobility, IoT).
 - 📶 Built **FWA-SLA KPI framework** for Verizon's 5G Fixed Wireless Access with data across **20K+ devices and 10K+ enterprise accounts** to calculate true availability and help define SLA thresholds for 5G contracts.
 - 📡 5G CDR vs 4G RTR telemetry analysis (ThingSpace @Verizon).
-- 🔭 Top *5* finalist in 2 PY-VEGAS internal enterprise hackathon.
+- Also, Top *5* finalist in 2 PY-VEGAS internal enterprise hackathon.
 
 Little about me: 
 - 🌱 Currently deep in Anthropic's model docs, RAG eavalution patterns, and how to survive a job search with my sanity intact.
